@@ -1,7 +1,8 @@
 # Road to be a Programmer
-I am only making a few changes to this course and will try to add Nepali Language and contents in the future.
+Made a few changes to this course and will try to add Nepali Language and contents in the future.
+This has helped me and is still a helping me alot to understand the concepts and scope of programming.
 
-I would like to thank and credit the original creater of this course.Please find the original work here https://github.com/jwasham/coding-interview-university
+I would like to thank and credit the original creater of this course. Please find the original work here https://github.com/jwasham/coding-interview-university
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
